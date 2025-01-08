@@ -16,3 +16,10 @@ print(max(AGES))
 print(JOHN_PAUL)
 print(GEORGE_RINGO)
 print(REVERSE)
+
+# 86
+# 20
+# 23
+# ['John', 'Paul']
+# ['George', 'Ringo']
+# ['Ringo', 'George','Paul', 'John]
